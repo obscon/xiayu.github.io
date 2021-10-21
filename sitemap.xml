@@ -4,78 +4,103 @@
   <url>
     <loc>http://eyuxx.xyz/2020/02/29/npm-kan-zhe-pian-jiu-gou-liao/</loc>
     
-    <lastmod>2021-10-21T10:36:04.939Z</lastmod>
+    <lastmod>2021-10-21</lastmod>
     
   </url>
   
   <url>
     <loc>http://eyuxx.xyz/friends/index.html</loc>
     
-    <lastmod>2021-10-21T10:36:04.932Z</lastmod>
+    <lastmod>2021-10-21</lastmod>
     
   </url>
   
   <url>
     <loc>http://eyuxx.xyz/2021/07/08/ceshi/</loc>
     
-    <lastmod>2021-07-07T22:09:35.740Z</lastmod>
+    <lastmod>2021-07-07</lastmod>
     
   </url>
   
   <url>
     <loc>http://eyuxx.xyz/2021/07/08/ce-shi/</loc>
     
-    <lastmod>2021-07-07T22:08:27.118Z</lastmod>
+    <lastmod>2021-07-07</lastmod>
     
   </url>
   
   <url>
     <loc>http://eyuxx.xyz/2020/03/06/hexo-da-jian-ge-ren-bo-ke/</loc>
     
-    <lastmod>2021-07-07T21:38:03.098Z</lastmod>
+    <lastmod>2021-07-07</lastmod>
     
   </url>
   
   <url>
     <loc>http://eyuxx.xyz/about/index.html</loc>
     
-    <lastmod>2021-07-07T19:51:29.371Z</lastmod>
+    <lastmod>2021-07-07</lastmod>
     
   </url>
   
   <url>
     <loc>http://eyuxx.xyz/contact/index.html</loc>
     
-    <lastmod>2021-07-07T19:51:25.210Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://eyuxx.xyz/404.html</loc>
-    
-    <lastmod>2020-03-07T07:14:27.000Z</lastmod>
+    <lastmod>2021-07-07</lastmod>
     
   </url>
   
   <url>
     <loc>http://eyuxx.xyz/archives/index.html</loc>
     
-    <lastmod>2020-03-07T07:14:27.000Z</lastmod>
+    <lastmod>2020-03-07</lastmod>
     
   </url>
   
   <url>
     <loc>http://eyuxx.xyz/categories/index.html</loc>
     
-    <lastmod>2020-03-07T07:14:27.000Z</lastmod>
+    <lastmod>2020-03-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://eyuxx.xyz/404.html</loc>
+    
+    <lastmod>2020-03-07</lastmod>
     
   </url>
   
   <url>
     <loc>http://eyuxx.xyz/tags/index.html</loc>
     
-    <lastmod>2020-03-07T07:14:27.000Z</lastmod>
+    <lastmod>2020-03-07</lastmod>
     
+  </url>
+  
+
+  <url>
+    <loc>http://eyuxx.xyz/</loc>
+    <lastmod>2021-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://eyuxx.xyz/tags/npm/</loc>
+    <lastmod>2021-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://eyuxx.xyz/categories/npm/</loc>
+    <lastmod>2021-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
   
 </urlset>
