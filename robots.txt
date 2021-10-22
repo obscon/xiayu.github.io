@@ -3,5 +3,5 @@ User-agent: *
 
 Allow: /
 
-Sitemap: http://eyuxx.xyz/sitemap.xml
-Sitemap: http://eyuxx.xyz/baidusitemap.xml
+Sitemap: http://鳄鱼香香烤串.xyz/sitemap.xml
+Sitemap: http://鳄鱼香香烤串.xyz/baidusitemap.xml

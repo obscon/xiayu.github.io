@@ -2,77 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://eyuxx.xyz/2020/02/29/npm-kan-zhe-pian-jiu-gou-liao/</loc>
+    <loc>http://eyuxx.xyz.xyz/2020/02/29/npm-kan-zhe-pian-jiu-gou-liao/</loc>
     
-    <lastmod>2021-10-21</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://eyuxx.xyz/friends/index.html</loc>
-    
-    <lastmod>2021-10-21</lastmod>
+    <lastmod>2021-10-22</lastmod>
     
   </url>
   
   <url>
-    <loc>http://eyuxx.xyz/2021/07/08/ceshi/</loc>
+    <loc>http://eyuxx.xyz.xyz/about/index.html</loc>
+    
+    <lastmod>2021-10-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://eyuxx.xyz.xyz/friends/index.html</loc>
+    
+    <lastmod>2021-10-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://eyuxx.xyz.xyz/2021/07/08/ceshi/</loc>
     
     <lastmod>2021-07-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://eyuxx.xyz/2021/07/08/ce-shi/</loc>
+    <loc>http://eyuxx.xyz.xyz/2021/07/08/ce-shi/</loc>
     
     <lastmod>2021-07-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://eyuxx.xyz/2020/03/06/hexo-da-jian-ge-ren-bo-ke/</loc>
+    <loc>http://eyuxx.xyz.xyz/2020/03/06/hexo-da-jian-ge-ren-bo-ke/</loc>
     
     <lastmod>2021-07-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://eyuxx.xyz/about/index.html</loc>
+    <loc>http://eyuxx.xyz.xyz/contact/index.html</loc>
     
     <lastmod>2021-07-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://eyuxx.xyz/contact/index.html</loc>
-    
-    <lastmod>2021-07-07</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://eyuxx.xyz/404.html</loc>
+    <loc>http://eyuxx.xyz.xyz/404.html</loc>
     
     <lastmod>2020-03-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://eyuxx.xyz/categories/index.html</loc>
+    <loc>http://eyuxx.xyz.xyz/categories/index.html</loc>
     
     <lastmod>2020-03-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://eyuxx.xyz/archives/index.html</loc>
+    <loc>http://eyuxx.xyz.xyz/tags/index.html</loc>
     
     <lastmod>2020-03-07</lastmod>
     
   </url>
   
   <url>
-    <loc>http://eyuxx.xyz/tags/index.html</loc>
+    <loc>http://eyuxx.xyz.xyz/archives/index.html</loc>
     
     <lastmod>2020-03-07</lastmod>
     
@@ -80,16 +80,16 @@
   
 
   <url>
-    <loc>http://eyuxx.xyz/</loc>
-    <lastmod>2021-10-21</lastmod>
+    <loc>http://eyuxx.xyz.xyz/</loc>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://eyuxx.xyz/tags/npm/</loc>
-    <lastmod>2021-10-21</lastmod>
+    <loc>http://eyuxx.xyz.xyz/tags/npm/</loc>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -97,8 +97,8 @@
 
   
   <url>
-    <loc>http://eyuxx.xyz/categories/npm/</loc>
-    <lastmod>2021-10-21</lastmod>
+    <loc>http://eyuxx.xyz.xyz/categories/npm/</loc>
+    <lastmod>2021-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

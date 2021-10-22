@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>eyuxx的博客</title>
+  <title>鳄鱼香香烤串的博客</title>
   
-  <subtitle>eyuxx</subtitle>
-  <link href="http://eyuxx.xyz/atom.xml" rel="self"/>
+  <subtitle>鳄鱼香香烤串</subtitle>
+  <link href="http://eyuxx.xyz.xyz/atom.xml" rel="self"/>
   
-  <link href="http://eyuxx.xyz/"/>
+  <link href="http://eyuxx.xyz.xyz/"/>
   <updated>2021-07-07T22:09:35.740Z</updated>
-  <id>http://eyuxx.xyz/</id>
+  <id>http://eyuxx.xyz.xyz/</id>
   
   <author>
-    <name>eyuxx</name>
+    <name>鳄鱼香香烤串</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>ceshi</title>
-    <link href="http://eyuxx.xyz/2021/07/08/ceshi/"/>
-    <id>http://eyuxx.xyz/2021/07/08/ceshi/</id>
+    <link href="http://eyuxx.xyz.xyz/2021/07/08/ceshi/"/>
+    <id>http://eyuxx.xyz.xyz/2021/07/08/ceshi/</id>
     <published>2021-07-07T22:09:14.000Z</published>
     <updated>2021-07-07T22:09:35.740Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>免杀过火绒</title>
-    <link href="http://eyuxx.xyz/2021/07/08/ce-shi/"/>
-    <id>http://eyuxx.xyz/2021/07/08/ce-shi/</id>
+    <link href="http://eyuxx.xyz.xyz/2021/07/08/ce-shi/"/>
+    <id>http://eyuxx.xyz.xyz/2021/07/08/ce-shi/</id>
     <published>2021-07-07T21:51:11.000Z</published>
     <updated>2021-07-07T22:08:27.118Z</updated>
     
@@ -60,8 +60,8 @@
   
   <entry>
     <title>hexo,搭建个人博客</title>
-    <link href="http://eyuxx.xyz/2020/03/06/hexo-da-jian-ge-ren-bo-ke/"/>
-    <id>http://eyuxx.xyz/2020/03/06/hexo-da-jian-ge-ren-bo-ke/</id>
+    <link href="http://eyuxx.xyz.xyz/2020/03/06/hexo-da-jian-ge-ren-bo-ke/"/>
+    <id>http://eyuxx.xyz.xyz/2020/03/06/hexo-da-jian-ge-ren-bo-ke/</id>
     <published>2020-03-06T13:28:57.000Z</published>
     <updated>2021-07-07T21:38:03.098Z</updated>
     
@@ -81,10 +81,10 @@
   
   <entry>
     <title>npm,看这篇就够了</title>
-    <link href="http://eyuxx.xyz/2020/02/29/npm-kan-zhe-pian-jiu-gou-liao/"/>
-    <id>http://eyuxx.xyz/2020/02/29/npm-kan-zhe-pian-jiu-gou-liao/</id>
+    <link href="http://eyuxx.xyz.xyz/2020/02/29/npm-kan-zhe-pian-jiu-gou-liao/"/>
+    <id>http://eyuxx.xyz.xyz/2020/02/29/npm-kan-zhe-pian-jiu-gou-liao/</id>
     <published>2020-02-29T13:12:27.000Z</published>
-    <updated>2021-10-21T10:36:04.939Z</updated>
+    <updated>2021-10-22T11:44:22.891Z</updated>
     
     
       
@@ -98,10 +98,10 @@
     
     
     
-    <category term="npm" scheme="http://eyuxx.xyz/categories/npm/"/>
+    <category term="npm" scheme="http://eyuxx.xyz.xyz/categories/npm/"/>
     
     
-    <category term="npm" scheme="http://eyuxx.xyz/tags/npm/"/>
+    <category term="npm" scheme="http://eyuxx.xyz.xyz/tags/npm/"/>
     
   </entry>
   
